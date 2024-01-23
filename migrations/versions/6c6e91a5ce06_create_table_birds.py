@@ -1,8 +1,8 @@
 """create table birds
 
-Revision ID: 30ea01e574fb
+Revision ID: 6c6e91a5ce06
 Revises: 
-Create Date: 2024-01-22 20:46:16.926999
+Create Date: 2024-01-23 18:47:33.533565
 
 """
 from alembic import op
@@ -10,7 +10,7 @@ import sqlalchemy as sa
 
 
 # revision identifiers, used by Alembic.
-revision = '30ea01e574fb'
+revision = '6c6e91a5ce06'
 down_revision = None
 branch_labels = None
 depends_on = None
